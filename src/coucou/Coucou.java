@@ -20,6 +20,6 @@ public class Coucou {
          System.out.println("Bonjour John Doe");
          System.out.println("Bonjour John Doe");
          System.out.println("Bonjour John Doe");
-    }
-    
+         System.out.println("Bonjour John Doe");
+    }   
 }
