@@ -17,6 +17,9 @@ public class Coucou {
     public static void main(String[] args) {
         // TODO code application logic here
          System.out.println("Bonjour John Doe");
+         System.out.println("Bonjour John Doe");
+         System.out.println("Bonjour John Doe");
+         System.out.println("Bonjour John Doe");
     }
     
 }
